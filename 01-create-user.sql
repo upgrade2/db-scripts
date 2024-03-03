@@ -1,7 +1,7 @@
 CREATE USER 'ecommerceapp'@'localhost' IDENTIFIED BY 'ecommerceapp';
 
 GRANT ALL PRIVILEGES ON * . * TO 'ecommerceapp'@'localhost';
-
+##hi this is ajay
 #
 # Starting with MySQL 8.0.4, the MySQL team changed the 
 # default authentication plugin for MySQL server 
